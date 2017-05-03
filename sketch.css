@@ -1,0 +1,101 @@
+body{
+	background-color: #004fff;
+	margin: 10px;
+    overflow: hidden;
+		width: 100%;
+
+		font-family: FranklinGothic-Book;
+
+}
+
+#right{
+
+float: right;
+background-color: white;
+width: calc(50% - 20px);
+min-height: calc(100vh - 20px);
+
+margin-right: 20px;
+
+}
+
+#sketch{
+
+background-color: white;
+width: 50%;
+float:left;
+}
+
+h1{
+
+		font-weight: normal;
+		font-size: 26px;
+
+}
+
+
+.header{
+
+width: 100%;
+height: 24px;
+background-color: #1e1d20;
+color: white;
+padding: 7px;
+}
+
+.padded{
+
+	padding: 20px 30px 20px 30px;
+
+}
+
+
+.bodycopy{
+
+		font-family: TiemposText-Regular;
+		color: #86898e;
+
+}
+
+hr{
+
+border-width:1px 0px 0px 0px;
+border-style: solid;
+border-color: silver;
+
+}
+
+table{
+border-spacing: 0px;
+color: white;
+
+
+}
+
+td{
+
+padding: 20px;
+vertical-align: top;
+border-collapse: collapse;
+margin: 0px;
+border-bottom: .5px solid #373737;
+
+}
+
+th{
+
+padding: 20px;
+vertical-align: top;
+border-collapse: collapse;
+margin: 0px;
+border-bottom: .5px solid #373737;
+
+}
+
+tbody tr:nth-child(odd) {
+   background-color: #626262;
+}
+
+tbody tr:nth-child(even) {
+   background-color: #555454;
+}

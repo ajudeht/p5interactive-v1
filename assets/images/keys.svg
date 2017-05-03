@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="500px" height="300px" viewBox="0 0 500 300" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>Custom Preset</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="44" height="44" rx="4"></rect>
+        <rect id="path-2" x="0" y="0" width="44" height="44" rx="4"></rect>
+        <rect id="path-3" x="0" y="0" width="44" height="44" rx="4"></rect>
+        <rect id="path-4" x="0" y="0" width="44" height="44" rx="4"></rect>
+        <rect id="path-5" x="0" y="0" width="44" height="44" rx="4"></rect>
+        <rect id="path-6" x="0" y="0" width="44" height="44" rx="4"></rect>
+        <rect id="path-7" x="0" y="0" width="44" height="44" rx="4"></rect>
+        <rect id="path-8" x="0" y="0" width="44" height="44" rx="4"></rect>
+        <rect id="path-9" x="0" y="0" width="44" height="44" rx="4"></rect>
+        <rect id="path-10" x="0" y="0" width="44" height="44" rx="4"></rect>
+        <rect id="path-11" x="0" y="0" width="44" height="44" rx="4"></rect>
+        <rect id="path-12" x="0" y="0" width="44" height="44" rx="4"></rect>
+        <rect id="path-13" x="0" y="0" width="44" height="44" rx="4"></rect>
+        <rect id="path-14" x="0" y="0" width="44" height="44" rx="4"></rect>
+        <rect id="path-15" x="0" y="0" width="44" height="44" rx="4"></rect>
+        <rect id="path-16" x="0" y="0" width="44" height="44" rx="4"></rect>
+        <rect id="path-17" x="0" y="0" width="44" height="44" rx="4"></rect>
+        <rect id="path-18" x="0" y="0" width="44" height="44" rx="4"></rect>
+        <rect id="path-19" x="0" y="0" width="44" height="44" rx="4"></rect>
+        <rect id="path-20" x="0" y="0" width="44" height="44" rx="4"></rect>
+        <rect id="path-21" x="0" y="0" width="44" height="44" rx="4"></rect>
+        <rect id="path-22" x="0" y="0" width="44" height="44" rx="4"></rect>
+        <rect id="path-23" x="0" y="0" width="44" height="44" rx="4"></rect>
+        <rect id="path-24" x="0" y="0" width="44" height="44" rx="4"></rect>
+        <rect id="path-25" x="0" y="0" width="44" height="44" rx="4"></rect>
+        <rect id="path-26" x="0" y="0" width="44" height="44" rx="4"></rect>
+        <rect id="path-27" x="0" y="0" width="44" height="44" rx="4"></rect>
+        <rect id="path-28" x="0" y="0" width="44" height="44" rx="4"></rect>
+        <rect id="path-29" x="0" y="0" width="44" height="44" rx="4"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Custom-Preset">
+            <g id="key" transform="translate(86.000000, 214.000000)">
+                <g id="Rectangle">
+                    <use fill-opacity="0.2" fill="#FBFBFB" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <rect stroke="#E8E8E8" stroke-width="1" x="0.5" y="0.5" width="43" height="43" rx="4"></rect>
+                </g>
+                <text id="#" font-family="FranklinGothic-Book, Franklin Gothic Book" font-size="16" font-weight="normal" letter-spacing="-0.326274514" fill="#000000">
+                    <tspan x="17.9990748" y="28">Z</tspan>
+                </text>
+            </g>
+            <g id="key" transform="translate(12.000000, 92.000000)">
+                <g id="Rectangle">
+                    <use fill-opacity="0.2" fill="#FBFBFB" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    <rect stroke="#E8E8E8" stroke-width="1" x="0.5" y="0.5" width="43" height="43" rx="4"></rect>
+                </g>
+                <text id="#" font-family="FranklinGothic-Book, Franklin Gothic Book" font-size="16" font-weight="normal" letter-spacing="-0.326274514" fill="#000000">
+                    <tspan x="17.1162623" y="28">Q</tspan>
+                </text>
+            </g>
+            <g id="key" transform="translate(348.000000, 92.000000)">
+                <g id="Rectangle">
+                    <use fill-opacity="0.2" fill="#FBFBFB" fill-rule="evenodd" xlink:href="#path-3"></use>
+                    <rect stroke="#E8E8E8" stroke-width="1" x="0.5" y="0.5" width="43" height="43" rx="4"></rect>
+                </g>
+                <text id="#" font-family="FranklinGothic-Book, Franklin Gothic Book" font-size="16" font-weight="normal" letter-spacing="-0.326274514" fill="#000000">
+                    <tspan x="20.1631373" y="28">I</tspan>
+                </text>
+            </g>
+            <g id="key" transform="translate(182.000000, 214.000000)">
+                <g id="Rectangle">
+                    <use fill-opacity="0.2" fill="#FBFBFB" fill-rule="evenodd" xlink:href="#path-4"></use>
+                    <rect stroke="#E8E8E8" stroke-width="1" x="0.5" y="0.5" width="43" height="43" rx="4"></rect>
+                </g>
+                <text id="#" font-family="FranklinGothic-Book, Franklin Gothic Book" font-size="16" font-weight="normal" letter-spacing="-0.326274514" fill="#000000">
+                    <tspan x="17.5303248" y="28">C</tspan>
+                </text>
+            </g>
+            <g id="key" transform="translate(108.000000, 92.000000)">
+                <g id="Rectangle">
+                    <use fill-opacity="0.2" fill="#FBFBFB" fill-rule="evenodd" xlink:href="#path-5"></use>
+                    <rect stroke="#E8E8E8" stroke-width="1" x="0.5" y="0.5" width="43" height="43" rx="4"></rect>
+                </g>
+                <text id="#" font-family="FranklinGothic-Book, Franklin Gothic Book" font-size="16" font-weight="normal" letter-spacing="-0.326274514" fill="#000000">
+                    <tspan x="17.7803248" y="28">E</tspan>
+                </text>
+            </g>
+            <g id="key" transform="translate(444.000000, 92.000000)">
+                <g id="Rectangle">
+                    <use fill-opacity="0.2" fill="#FBFBFB" fill-rule="evenodd" xlink:href="#path-6"></use>
+                    <rect stroke="#E8E8E8" stroke-width="1" x="0.5" y="0.5" width="43" height="43" rx="4"></rect>
+                </g>
+                <text id="#" font-family="FranklinGothic-Book, Franklin Gothic Book" font-size="16" font-weight="normal" letter-spacing="-0.326274514" fill="#000000">
+                    <tspan x="17.690481" y="28">P</tspan>
+                </text>
+            </g>
+            <g id="key-DARK" transform="translate(160.000000, 165.000000)">
+                <g id="Rectangle">
+                    <use fill-opacity="0.2" fill="#CECECE" fill-rule="evenodd" xlink:href="#path-7"></use>
+                    <rect stroke="#D1D1D1" stroke-width="1" x="0.5" y="0.5" width="43" height="43" rx="4"></rect>
+                </g>
+                <text id="#" font-family="FranklinGothic-Book, Franklin Gothic Book" font-size="16" font-weight="normal" letter-spacing="-0.326274514" fill="#000000">
+                    <tspan x="16.987356" y="28">D</tspan>
+                </text>
+            </g>
+            <g id="key-DARK" transform="translate(86.000000, 43.000000)">
+                <g id="Rectangle">
+                    <use fill-opacity="0.2" fill="#CECECE" fill-rule="evenodd" xlink:href="#path-8"></use>
+                    <rect stroke="#D1D1D1" stroke-width="1" x="0.5" y="0.5" width="43" height="43" rx="4"></rect>
+                </g>
+                <text id="#" font-family="FranklinGothic-Book, Franklin Gothic Book" font-size="16" font-weight="normal" letter-spacing="-0.326274514" fill="#000000">
+                    <tspan x="17.471731" y="28">3</tspan>
+                </text>
+            </g>
+            <g id="key-DARK" transform="translate(422.000000, 43.000000)">
+                <g id="Rectangle">
+                    <use fill-opacity="0.2" fill="#CECECE" fill-rule="evenodd" xlink:href="#path-9"></use>
+                    <rect stroke="#D1D1D1" stroke-width="1" x="0.5" y="0.5" width="43" height="43" rx="4"></rect>
+                </g>
+                <text id="#" font-family="FranklinGothic-Book, Franklin Gothic Book" font-size="16" font-weight="normal" letter-spacing="-0.326274514" fill="#000000">
+                    <tspan x="17.471731" y="28">0</tspan>
+                </text>
+            </g>
+            <g id="key" transform="translate(326.000000, 214.000000)">
+                <g id="Rectangle">
+                    <use fill-opacity="0.2" fill="#FBFBFB" fill-rule="evenodd" xlink:href="#path-10"></use>
+                    <rect stroke="#E8E8E8" stroke-width="1" x="0.5" y="0.5" width="43" height="43" rx="4"></rect>
+                </g>
+                <text id="#" font-family="FranklinGothic-Book, Franklin Gothic Book" font-size="16" font-weight="normal" letter-spacing="-0.326274514" fill="#000000">
+                    <tspan x="16.9053248" y="28">N</tspan>
+                </text>
+            </g>
+            <g id="key" transform="translate(252.000000, 92.000000)">
+                <g id="Rectangle">
+                    <use fill-opacity="0.2" fill="#FBFBFB" fill-rule="evenodd" xlink:href="#path-11"></use>
+                    <rect stroke="#E8E8E8" stroke-width="1" x="0.5" y="0.5" width="43" height="43" rx="4"></rect>
+                </g>
+                <text id="#" font-family="FranklinGothic-Book, Franklin Gothic Book" font-size="16" font-weight="normal" letter-spacing="-0.326274514" fill="#000000">
+                    <tspan x="18.081106" y="28">Y</tspan>
+                </text>
+            </g>
+            <g id="key-DARK" transform="translate(304.000000, 165.000000)">
+                <g id="Rectangle">
+                    <use fill-opacity="0.2" fill="#CECECE" fill-rule="evenodd" xlink:href="#path-12"></use>
+                    <rect stroke="#D1D1D1" stroke-width="1" x="0.5" y="0.5" width="43" height="43" rx="4"></rect>
+                </g>
+                <text id="#" font-family="FranklinGothic-Book, Franklin Gothic Book" font-size="16" font-weight="normal" letter-spacing="-0.326274514" fill="#000000">
+                    <tspan x="17.0225123" y="28">H</tspan>
+                </text>
+            </g>
+            <g id="key-DARK" transform="translate(230.000000, 43.000000)">
+                <g id="Rectangle">
+                    <use fill-opacity="0.2" fill="#CECECE" fill-rule="evenodd" xlink:href="#path-13"></use>
+                    <rect stroke="#D1D1D1" stroke-width="1" x="0.5" y="0.5" width="43" height="43" rx="4"></rect>
+                </g>
+                <text id="#" font-family="FranklinGothic-Book, Franklin Gothic Book" font-size="16" font-weight="normal" letter-spacing="-0.326274514" fill="#000000">
+                    <tspan x="17.471731" y="28">6</tspan>
+                </text>
+            </g>
+            <g id="key" transform="translate(134.000000, 214.000000)">
+                <g id="Rectangle">
+                    <use fill-opacity="0.2" fill="#FBFBFB" fill-rule="evenodd" xlink:href="#path-14"></use>
+                    <rect stroke="#E8E8E8" stroke-width="1" x="0.5" y="0.5" width="43" height="43" rx="4"></rect>
+                </g>
+                <text id="#" font-family="FranklinGothic-Book, Franklin Gothic Book" font-size="16" font-weight="normal" letter-spacing="-0.326274514" fill="#000000">
+                    <tspan x="18.002981" y="28">X</tspan>
+                </text>
+            </g>
+            <g id="key" transform="translate(60.000000, 92.000000)">
+                <g id="Rectangle">
+                    <use fill-opacity="0.2" fill="#FBFBFB" fill-rule="evenodd" xlink:href="#path-15"></use>
+                    <rect stroke="#E8E8E8" stroke-width="1" x="0.5" y="0.5" width="43" height="43" rx="4"></rect>
+                </g>
+                <text id="#" font-family="FranklinGothic-Book, Franklin Gothic Book" font-size="16" font-weight="normal" letter-spacing="-0.326274514" fill="#000000">
+                    <tspan x="15.6240748" y="28">W</tspan>
+                </text>
+            </g>
+            <g id="key" transform="translate(396.000000, 92.000000)">
+                <g id="Rectangle">
+                    <use fill-opacity="0.2" fill="#FBFBFB" fill-rule="evenodd" xlink:href="#path-16"></use>
+                    <rect stroke="#E8E8E8" stroke-width="1" x="0.5" y="0.5" width="43" height="43" rx="4"></rect>
+                </g>
+                <text id="#" font-family="FranklinGothic-Book, Franklin Gothic Book" font-size="16" font-weight="normal" letter-spacing="-0.326274514" fill="#000000">
+                    <tspan x="17.1162623" y="28">O</tspan>
+                </text>
+            </g>
+            <g id="key-DARK" transform="translate(112.000000, 165.000000)">
+                <g id="Rectangle">
+                    <use fill-opacity="0.2" fill="#CECECE" fill-rule="evenodd" xlink:href="#path-17"></use>
+                    <rect stroke="#D1D1D1" stroke-width="1" x="0.5" y="0.5" width="43" height="43" rx="4"></rect>
+                </g>
+                <text id="#" font-family="FranklinGothic-Book, Franklin Gothic Book" font-size="16" font-weight="normal" letter-spacing="-0.326274514" fill="#000000">
+                    <tspan x="17.6084498" y="28">S</tspan>
+                </text>
+            </g>
+            <g id="key-DARK" transform="translate(38.000000, 43.000000)">
+                <g id="Rectangle">
+                    <use fill-opacity="0.2" fill="#CECECE" fill-rule="evenodd" xlink:href="#path-18"></use>
+                    <rect stroke="#D1D1D1" stroke-width="1" x="0.5" y="0.5" width="43" height="43" rx="4"></rect>
+                </g>
+                <text id="#" font-family="FranklinGothic-Book, Franklin Gothic Book" font-size="16" font-weight="normal" letter-spacing="-0.326274514" fill="#000000">
+                    <tspan x="17.471731" y="28">2</tspan>
+                </text>
+            </g>
+            <g id="key-DARK" transform="translate(374.000000, 43.000000)">
+                <g id="Rectangle">
+                    <use fill-opacity="0.2" fill="#CECECE" fill-rule="evenodd" xlink:href="#path-19"></use>
+                    <rect stroke="#D1D1D1" stroke-width="1" x="0.5" y="0.5" width="43" height="43" rx="4"></rect>
+                </g>
+                <text id="#" font-family="FranklinGothic-Book, Franklin Gothic Book" font-size="16" font-weight="normal" letter-spacing="-0.326274514" fill="#000000">
+                    <tspan x="17.471731" y="28">9</tspan>
+                </text>
+            </g>
+            <g id="key" transform="translate(278.000000, 214.000000)">
+                <g id="Rectangle">
+                    <use fill-opacity="0.2" fill="#FBFBFB" fill-rule="evenodd" xlink:href="#path-20"></use>
+                    <rect stroke="#E8E8E8" stroke-width="1" x="0.5" y="0.5" width="43" height="43" rx="4"></rect>
+                </g>
+                <text id="#" font-family="FranklinGothic-Book, Franklin Gothic Book" font-size="16" font-weight="normal" letter-spacing="-0.326274514" fill="#000000">
+                    <tspan x="17.3271998" y="28">B</tspan>
+                </text>
+            </g>
+            <g id="key" transform="translate(204.000000, 92.000000)">
+                <g id="Rectangle">
+                    <use fill-opacity="0.2" fill="#FBFBFB" fill-rule="evenodd" xlink:href="#path-21"></use>
+                    <rect stroke="#E8E8E8" stroke-width="1" x="0.5" y="0.5" width="43" height="43" rx="4"></rect>
+                </g>
+                <text id="#" font-family="FranklinGothic-Book, Franklin Gothic Book" font-size="16" font-weight="normal" letter-spacing="-0.326274514" fill="#000000">
+                    <tspan x="18.2803248" y="28">T</tspan>
+                </text>
+            </g>
+            <g id="key-DARK" transform="translate(256.000000, 165.000000)">
+                <g id="Rectangle">
+                    <use fill-opacity="0.2" fill="#CECECE" fill-rule="evenodd" xlink:href="#path-22"></use>
+                    <rect stroke="#D1D1D1" stroke-width="1" x="0.5" y="0.5" width="43" height="43" rx="4"></rect>
+                </g>
+                <text id="#" font-family="FranklinGothic-Book, Franklin Gothic Book" font-size="16" font-weight="normal" letter-spacing="-0.326274514" fill="#000000">
+                    <tspan x="16.987356" y="28">G</tspan>
+                </text>
+            </g>
+            <g id="key-DARK" transform="translate(182.000000, 43.000000)">
+                <g id="Rectangle">
+                    <use fill-opacity="0.2" fill="#CECECE" fill-rule="evenodd" xlink:href="#path-23"></use>
+                    <rect stroke="#D1D1D1" stroke-width="1" x="0.5" y="0.5" width="43" height="43" rx="4"></rect>
+                </g>
+                <text id="#" font-family="FranklinGothic-Book, Franklin Gothic Book" font-size="16" font-weight="normal" letter-spacing="-0.326274514" fill="#000000">
+                    <tspan x="17.471731" y="28">5</tspan>
+                </text>
+            </g>
+            <g id="key" transform="translate(230.000000, 214.000000)">
+                <g id="Rectangle">
+                    <use fill-opacity="0.2" fill="#FBFBFB" fill-rule="evenodd" xlink:href="#path-24"></use>
+                    <rect stroke="#E8E8E8" stroke-width="1" x="0.5" y="0.5" width="43" height="43" rx="4"></rect>
+                </g>
+                <text id="#" font-family="FranklinGothic-Book, Franklin Gothic Book" font-size="16" font-weight="normal" letter-spacing="-0.326274514" fill="#000000">
+                    <tspan x="17.8701685" y="28">V</tspan>
+                </text>
+            </g>
+            <g id="key" transform="translate(156.000000, 92.000000)">
+                <g id="Rectangle">
+                    <use fill-opacity="0.2" fill="#FBFBFB" fill-rule="evenodd" xlink:href="#path-25"></use>
+                    <rect stroke="#E8E8E8" stroke-width="1" x="0.5" y="0.5" width="43" height="43" rx="4"></rect>
+                </g>
+                <text id="#" font-family="FranklinGothic-Book, Franklin Gothic Book" font-size="16" font-weight="normal" letter-spacing="-0.326274514" fill="#000000">
+                    <tspan x="17.2607935" y="28">R</tspan>
+                </text>
+            </g>
+            <g id="key" transform="translate(374.000000, 214.000000)">
+                <g id="Rectangle">
+                    <use fill-opacity="0.2" fill="#FBFBFB" fill-rule="evenodd" xlink:href="#path-26"></use>
+                    <rect stroke="#E8E8E8" stroke-width="1" x="0.5" y="0.5" width="43" height="43" rx="4"></rect>
+                </g>
+                <text id="#" font-family="FranklinGothic-Book, Franklin Gothic Book" font-size="16" font-weight="normal" letter-spacing="-0.326274514" fill="#000000">
+                    <tspan x="15.6826685" y="28">M</tspan>
+                </text>
+            </g>
+            <g id="key" transform="translate(300.000000, 92.000000)">
+                <g id="Rectangle">
+                    <use fill-opacity="0.2" fill="#FBFBFB" fill-rule="evenodd" xlink:href="#path-27"></use>
+                    <rect stroke="#E8E8E8" stroke-width="1" x="0.5" y="0.5" width="43" height="43" rx="4"></rect>
+                </g>
+                <text id="#" font-family="FranklinGothic-Book, Franklin Gothic Book" font-size="16" font-weight="normal" letter-spacing="-0.326274514" fill="#000000">
+                    <tspan x="17.315481" y="28">U</tspan>
+                </text>
+            </g>
+            <g id="key-DARK" transform="translate(352.000000, 165.000000)">
+                <g id="Rectangle">
+                    <use fill-opacity="0.2" fill="#CECECE" fill-rule="evenodd" xlink:href="#path-28"></use>
+                    <rect stroke="#D1D1D1" stroke-width="1" x="0.5" y="0.5" width="43" height="43" rx="4"></rect>
+                </g>
+                <text id="#" font-family="FranklinGothic-Book, Franklin Gothic Book" font-size="16" font-weight="normal" letter-spacing="-0.326274514" fill="#000000">
+                    <tspan x="19.174856" y="28">J</tspan>
+                </text>
+            </g>
+            <g id="key-DARK" transform="translate(278.000000, 43.000000)">
+                <g id="Rectangle">
+                    <use fill-opacity="0.2" fill="#CECECE" fill-rule="evenodd" xlink:href="#path-29"></use>
+                    <rect stroke="#D1D1D1" stroke-width="1" x="0.5" y="0.5" width="43" height="43" rx="4"></rect>
+                </g>
+                <text id="#" font-family="FranklinGothic-Book, Franklin Gothic Book" font-size="16" font-weight="normal" letter-spacing="-0.326274514" fill="#000000">
+                    <tspan x="17.471731" y="28">7</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
