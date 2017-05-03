@@ -218,7 +218,7 @@ blendMode(SOFT_LIGHT);
 
 blendMode(NORMAL);
 
-var spectrum = fft.analyze();
+var spectrum = voices.analyze();
 
 stroke("red");
 strokeWeight(2);
